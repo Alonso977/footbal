@@ -1,0 +1,44 @@
+
+[
+    {
+        "id" : 1,
+        "name" : "Helmet",
+        "image" : "icon-helmet"
+    },
+    {
+        "id" : 2,
+        "name" : "Jersey",
+        "image" : "icon-jersey"
+    },
+    {
+        "id" : 3,
+        "name" : "Gloves",
+        "image" : "icon-gloves"
+    },
+    {
+        "id" : 4,
+        "name" : "Shoes",
+        "image" : "icon-shoes"
+    },
+    {
+        "id" : 5,
+        "name" : "Shoulder Pads",
+        "image" : "icon-shoulder-pads"
+    },
+    {
+        "id" : 6,
+        "name" : "Trophy",
+        "image" : "icon-trophy"
+    },
+    {
+        "id" : 7,
+        "name" : "Pad Girdle",
+        "image" : "icon-integrated-pad-girdle"
+    },
+    {
+        "id" : 8,
+        "name" : "Football",
+        "image" : "icon-football"
+    }
+]
+
